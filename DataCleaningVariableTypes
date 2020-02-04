@@ -1,1 +1,9 @@
-aaaaaaa
+1. If Rank is treated as continuous, it can have an unlimited number of values. If it were to be categorical, it would lose meaning between
+the difference of ranks. For example there would not be much of a quantifiable difference between #1 and #2, other than their respective
+ranks. 
+
+2. a.Age is continuous and ratio, but could also be categorical and ordinal
+  b. Salary is a continuous ratio variable
+  c. Revenue is a continuous ratio variable
+  d. Customer type is a categorical nominal variable
+  e. Stock price is a continuous ratio variable
